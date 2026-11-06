@@ -1,0 +1,2 @@
+# godapp
+inventory application
